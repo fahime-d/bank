@@ -1,5 +1,3 @@
-//maintainer: @masoud113200
-
 #include <iostream>
 #include <fstream>
 
